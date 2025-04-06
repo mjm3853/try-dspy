@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# MLflow - TODO: Add back when traces are fixed to not save api keys
+mlartifacts/
+mlruns/
